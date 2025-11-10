@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shahaji</h1>
+<h1 align="center">
+  Hi 👋, I'm Shahaji
+  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/896ed554-aa3e-40d3-b171-dab0c94c22e2.png" alt="Developer" width="50" height="50" />
+</h1>
+
 <h3 align="center">Full Stack Developer | React + Spring Boot | MySQL</h3>
 
 <p align="left">
