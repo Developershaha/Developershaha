@@ -2,7 +2,10 @@
 <h3 align="center">Full Stack Developer | React + Spring Boot | MySQL</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Developershaha&label=Profile%20views&color=0e75b6&style=flat" alt="Developershaha" />
+ <img src="https://komarev.com/ghpvc/?username=Developershaha&label=Profile%20views&color=0e75b6&style=flat" alt="Developershaha" />
+
+**Profile Views: 202**
+
 </p>
 
 <img align="right" alt="coding" width="300px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
@@ -12,9 +15,8 @@
 - 👯 I build **scalable frontend + backend applications**
 - 💬 Ask me about **React, Java, Spring Boot, MySQL**
 - 📫 Reach me at **shahajikokane9049@gmail.com**
-- ⚡ Fun fact: **I love coding & learning new tech**
+- ⚡ Fun fact: **Love to Ride Bikes & xclearning new tech**
 
----
 
 ### 🔗 Connect with Me
 <p align="left">
