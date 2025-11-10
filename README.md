@@ -18,7 +18,7 @@
 - 👯 I build **scalable frontend + backend applications**
 - 💬 Ask me about **React, Java, Spring Boot, MySQL**
 - 📫 Reach me at **shahaji.kokane.dev@gmail.com**
-- ⚡ Fun fact: **Love to Ride Bikes & xclearning new tech**
+- ⚡ Fun fact: **Love to Ride Bikes & learning new tech**
 
 
 ### 🔗 Connect with Me
