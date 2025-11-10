@@ -17,7 +17,7 @@
 - 🌱 I’m learning **Spring Security, Microservices**
 - 👯 I build **scalable frontend + backend applications**
 - 💬 Ask me about **React, Java, Spring Boot, MySQL**
-- 📫 Reach me at **shahajikokane9049@gmail.com**
+- 📫 Reach me at **shahaji.kokane.dev@gmail.com**
 - ⚡ Fun fact: **Love to Ride Bikes & xclearning new tech**
 
 
