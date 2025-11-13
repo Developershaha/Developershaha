@@ -57,6 +57,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" width="40" height="40"/>
+<!-- AWS wordmark (jsDelivr -> devicon) -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
 
 <!-- Containers -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
