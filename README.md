@@ -23,7 +23,7 @@
 
 ### 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
+<a href="https://www.linkedin.com/in/shahaji-kokane-484152190/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
