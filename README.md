@@ -15,6 +15,8 @@
 
 - 🔭 I’m currently working on **React, Spring Boot and MERN**
 - 🌱 I’m learning **Spring Security, Microservices**
+- 👯 My passion for full-stack development lies in building efficient, scalable, and user-centric applications. I enjoy working across the entire stack — designing clean, responsive UIs with React and developing robust backend systems using Java, Spring Boot, and MySQL. I'm constantly learning and improving through real-world projects and continuous practice.
+
 - 👯 I build **scalable frontend + backend applications**
 - 💬 Ask me about **React, Java, Spring Boot, MySQL**
 - 📫 Reach me at **shahaji.kokane.dev@gmail.com**
