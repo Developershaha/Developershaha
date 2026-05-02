@@ -61,7 +61,13 @@
 
 
 ---
+## ⭐ GitHub Stats Overview  
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Developershaha?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Developershaha?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/Developershaha?style=for-the-badge" />
+</p>
 
 ---
 
