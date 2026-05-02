@@ -65,11 +65,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Developershaha&show_icons=true&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=Developershaha&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" 
     height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developershaha&layout=compact&theme=radical&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Developershaha&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" 
     height="170"
   />
 </p>
